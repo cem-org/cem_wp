@@ -1,0 +1,14 @@
+# WordPress 自動生成系
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/debug.log
+
+# 依存ファイル
+node_modules/
+vendor/
+
+# OS / エディタ
+.DS_Store
+.vscode/
+.idea/
